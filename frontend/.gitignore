@@ -31,4 +31,4 @@ uploads/
 *.njsproj
 *.sln
 *.sw?
-.vercel
+# .vercel
